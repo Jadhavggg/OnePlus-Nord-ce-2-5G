@@ -1,4 +1,5 @@
-# OnePlus-Nord-ce-2-5GDimensions
+# OnePlus-Nord-ce-2-5G
+Dimensions
 
 Height: 16.06 cm
 
